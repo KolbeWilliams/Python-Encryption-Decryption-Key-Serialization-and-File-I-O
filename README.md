@@ -32,12 +32,12 @@ This Python program provides a secure way to encrypt and decrypt messages using 
 
 ## How to Run the Program
 
-1.  Save the provided Python code as a `.py` file (e.g., `secure_encrypt.py`).
+1.  Save the provided Python code as a `.py` file (e.g., `Cryptography.py`).
 2.  Open a terminal or command prompt.
 3.  Navigate to the directory where you saved the file.
 4.  Run the script using the Python interpreter:
     ```bash
-    python secure_encrypt.py
+    python Cryptography.py
     ```
 5.  The program will prompt you to:
     * Enter the message you want to encrypt.
